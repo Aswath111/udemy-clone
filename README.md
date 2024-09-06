@@ -3,7 +3,9 @@ Welcome to the Udemy Clone Website project! This is a simple web application tha
 
 ## Features
 Homepage Layout: Displays featured courses, categories, and a search bar.
+
 Course Listings: Basic structure for displaying course cards.
+
 Course Details: A template for showing course information, including title, description, and instructor.
 Responsive Design: Basic styling to ensure usability across different screen sizes.
 
