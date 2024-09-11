@@ -109,7 +109,6 @@ body{
 .popular{
      padding:10px;
 }
-
 .popular__container{
     display:flex;
     flex-wrap:wrap;
@@ -121,7 +120,6 @@ body{
     background-color: black;
     color:white;
 }
-
 
 .footer__one{
     display:flex;
